@@ -1,4 +1,7 @@
 # EDA_red_wine_quality
+
+Project for the course Exploratory Data Analysis at Udacity, by Alfred Wong
+
 Exploratory data analysis on a dataset with quality rating and physiochemical attributes of Portuguese Vinho Verde red wines
 
 Dataset was created by Cortez et al. (2009) in:
